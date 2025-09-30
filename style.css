@@ -44,3 +44,26 @@ body{
     border: solid black;
 }
 
+#new-btn {
+    padding: 1rem;
+    font-size: 1.5rem;
+    display: flex;
+    background-color: aqua;
+    color: black;
+    border-radius: 1rem;
+    justify-self: center;
+    border: solid black;
+}
+
+#msg {
+    color: black;
+    font-size: 8vmin;
+}
+
+#msg-container {
+    height: 30vmin;
+}
+
+.hide {
+    display: none;
+}
